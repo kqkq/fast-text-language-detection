@@ -1,8 +1,8 @@
 {
-  "name": "@smodin/fast-text-language-detection",
+  "name": "fast-text-language-detection",
   "version": "0.2.3",
-  "description": "Language detection with facebook fast-text model",
-  "homepage": "https://github.com/smodin-io/fast-text-language-detection",
+  "description": "Language detection with facebook fast-text model /w tweeks for building on Windows using Visual Studio",
+  "homepage": "https://github.com/kqkq/fast-text-language-detection",
   "keywords": [
     "language",
     "detection",
@@ -36,7 +36,7 @@
     "typescript": "^4.2.4"
   },
   "dependencies": {
-    "fast-text": "^1.0.1",
+    "fast-text-win": "^1.0.3",
     "npm-install-fetch": "^1.3.3"
   }
 }
